@@ -1,4 +1,4 @@
-1. 깃을 다운 받는다.
+﻿1. 깃을 다운 받는다.
 2. 깃 다운후, C드라이브 같은 곳에 파일을 저장할 폴더하나 생성(Programs\ Files같은 권한이 
 필요한 곳에다가 만들면 git init 때 문제가 생긴다.)
 3. 깃을 만든 폴더에서 실행한다.
@@ -13,4 +13,4 @@ git config --global user.email "junsikyi1@gmail.com" 생성 후, git config --li
 11. 깃허브 로그인창에 로그인하기.
 12. 끝...
 (fatal: remote origin already exists가 나올 시, git remote rm origin로 해결한다.)
- )
+ 
