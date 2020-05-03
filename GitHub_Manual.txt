@@ -1,0 +1,14 @@
+1. 깃을 다운 받는다.
+2. 깃 다운후, C드라이브 같은 곳에 파일을 저장할 폴더하나 생성(Programs\ Files같은 권한이 
+필요한 곳에다가 만들면 git init 때 문제가 생긴다.)
+3. 깃을 만든 폴더에서 실행한다.
+4. 실행 후, git config --global user.name "유저 이름", 
+git config --global user.email "junsikyi1@gmail.com" 생성 후, git config --list로 확인.
+5. git init로 . git/ 생성.
+6. git remote add origin "깃허브 홈페이지에서 생성한 repository 주소"를 입력.
+7. git stauts 현재 폴더와 깃 repository 간의 싱크상태확인.
+8. git add . 으로 모든 파일을 트랙킹.
+9. git commit -m "내용"으로 구분할 커밋만들기.
+10. git push origin master으로 repository에 푸쉬하기.
+11. 깃허브 로그인창에 로그인하기.
+12. 끝...
