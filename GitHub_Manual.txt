@@ -12,3 +12,5 @@ git config --global user.email "junsikyi1@gmail.com" 생성 후, git config --li
 10. git push origin master으로 repository에 푸쉬하기.
 11. 깃허브 로그인창에 로그인하기.
 12. 끝...
+(fatal: remote origin already exists가 나올 시, git remote rm origin로 해결한다.)
+ )
